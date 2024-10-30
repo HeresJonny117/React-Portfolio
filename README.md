@@ -1,9 +1,6 @@
 React Developer Portfolio
 A single-page application portfolio built with React, showcasing my work as a web developer. This project demonstrates my ability to build modern, interactive, and mobile-responsive websites.
 
-Live Demo
-View the Portfolio on Netlify
-
 Features
   Header & Navigation: Developer's name and navigation links to About Me, Portfolio, Contact, and Resume.
   About Me: A short bio and recent photo.
@@ -16,6 +13,9 @@ Technologies Used
   React Router DOM - For smooth page navigation.
   CSS - Custom styling for a polished look.
   Netlify - For deployment.
+
+Netlify Url
+  https://golden-mochi-442d48.netlify.app/
 
 Contact
   Github: HeresJonny117
